@@ -35,4 +35,6 @@ run service tor : service tor start
 now write this command to run the script 
 
 chmod +x instashell.sh
+
+
 ./instashell.sh
