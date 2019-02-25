@@ -2,8 +2,10 @@
 instashell by ANtqAmE
 
 this script coded by antqame
-https://up.top4top.net/downloadf-1151bsffr1-apk.html
-this my account in facebook : https://www.facebook.com/ANtqAmE
+
+this my account in facebook :
+
+https://www.facebook.com/ANtqAmE
 
 and in instagram : 56mrx
 
